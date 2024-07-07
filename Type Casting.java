@@ -1,6 +1,6 @@
 class Hello
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int b=257;
         byte k=(byte)b;
