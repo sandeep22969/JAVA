@@ -1,6 +1,6 @@
 class Hello
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
         int num1=9;   //4 bytes
         byte by=127;  //8 bytes
